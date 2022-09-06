@@ -4,7 +4,7 @@
 
 In thsi project, I created digital clock that gets updated every second.
 
-![Digital Clock](https://user-images.githubusercontent.com/89424060/188528030-8ffdba5d-f786-4a84-b1fc-b79b7e51405d.png)
+https://user-images.githubusercontent.com/89424060/188529726-3641cc9d-4511-4b42-8090-b426cf082124.mp4
 
 
 ### Tools & Tech Used
